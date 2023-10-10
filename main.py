@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
-from calendrier.calendrier import Calendrier
 import calendar
+from calendrier.calendrier import Calendrier
 
 # Définition de la classe principale de l'application
 class App:
