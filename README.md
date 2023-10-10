@@ -9,7 +9,8 @@ Cette application démo permet de mettre en exemple l'API mon-calendrier.
 Python3.x installé sur votre machine.  
 La bibliothèque "tKinter" doit être installé. Si ce n'est pas le cas, vous pouvez l'installer via pip :  
 ``pip install tk``  
-Assurez-vous d'avoir "mon-calendrier" d'installé.
+Assurez-vous d'avoir "mon-calendrier" d'installé.  
+``pip install mon-calendrier==0.1``
 
 ### Installation
 
